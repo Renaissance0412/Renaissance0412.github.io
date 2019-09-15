@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hexo博客搭建中文乱码问题</title>
+      <link href="/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/"/>
+      <url>/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<p>第一次使用hexo框架搭建博客，由于本人专业知识四舍五入就是0，我从已经成功搭建博客的朋友那里要来了一份详细的教程，具体网址如下：<br><a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8" target="_blank" rel="noopener">https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8</a><br>搭建过程中还是遇到了不少坑，比如我在我的Win10系统安装了vim后，试图在命令行使用vim口令修改_config.yml文件。但当我deploy之后，我发现在我的博客页面上原本是中文的部分却出现了乱码。这怎么能忍？于是我倒腾半天，首先发现blog-themes-landscape-language里存在zh-CN.yml文件，而我在_config.yml文件中language一行填写的是zh，故改之 随后generate+deploy。然而，我发现乱码纹丝不动！<br>于是我用记事本戳进_config.yml文件，暗搓搓地将文件另存为一个txt文件，顺便把编码改成UTF-8；随后，我又将原来的_config.yml文件删了并通过重命名把新的_config.yml.txt文件的.txt后缀删了。随后，我打开命令行，通过vim指令再次打开_config.yml文件，发现原本的中文是一堆乱码。我装作无事发生，generate+deploy，终于在博客页面上看到熟悉的中文了！</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Github </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>纪伯伦——《沙与沫》</title>
+      <link href="/2019/09/15/ji-bo-lun-sha-yu-mo/"/>
+      <url>/2019/09/15/ji-bo-lun-sha-yu-mo/</url>
+      
+        <content type="html"><![CDATA[<p>我曾经7次鄙视自己的灵魂：它本可以进取却故作谦卑；它在空虚时用爱欲填充；在困难和容易之间选择了容易；它犯了错，却借由别人也会犯错来宽慰自己；它自由软弱却把他认为生命的坚韧；它鄙夷一张丑恶的嘴脸，却不知那正是自己面具中的一副，他侧身于生活的污泥，虽不甘心，却又畏首畏尾。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 诗词 </tag>
+            
+            <tag> 警句 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

@@ -8,9 +8,23 @@
       <link href="/2019/09/22/xin-yuan-xiao-yuan-chao-shi-de-suan-nai-ji-lu/"/>
       <url>/2019/09/22/xin-yuan-xiao-yuan-chao-shi-de-suan-nai-ji-lu/</url>
       
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>出于对老酸奶的热爱，本人以前几乎只喝一种酸奶。昨日一时兴起决定对欣苑校园超市的所有冰柜里的酸奶进行每日一瓶的测评（其实是自己想喝）</p><p>2019.09.21<br>天润青柠酸奶<br>价格：5.50RMB<br>规格：180g<br>袋装酸奶，比较浓稠，我用吸管一开始还不太能吸上来……虽然以前每次买饮品几乎都冲着同一款柠檬汁和同一款老酸奶去，但是其实到昨天以前还没有尝试过这两种的搭配。意外的没有雷，很清爽的味道，会回购。</p><p>2019.09.22<br>（未完待续）</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 酸奶 </tag>
+            
+            <tag> 测评 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -21,9 +35,23 @@
       <link href="/2019/09/19/ji-yu-easyar-unity-de-ar-lao-po-shi-xian/"/>
       <url>/2019/09/19/ji-yu-easyar-unity-de-ar-lao-po-shi-xian/</url>
       
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>由于本人一时兴起加入了两个工作室却又没有技术，而互联网+等比赛将近，三教的工位日益稀缺，两个工作室都急需项目。所以，为了实现我的基于Ar技术的idea，本菜鸡开始了没头没脑的摸索……（但其实加入了其他项目而且并没有为这个idea申请项目hhh）<br>首先，打开Unity官网，下载Unity 最新的2019.2.5f1版本+Unity Hub（方便项目管理）的个人版（免费），再打开EasyAr官网下载三个包，一个是……<br>（懒得写了，等以后有空再整）</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> EasyAr </tag>
+            
+            <tag> Unity </tag>
+            
+        </tags>
       
     </entry>
     
@@ -34,7 +62,7 @@
       <link href="/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/"/>
       <url>/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/</url>
       
-        <content type="html"><![CDATA[<p>第一次使用hexo框架搭建博客，由于本人专业知识四舍五入就是0，我从已经成功搭建博客的朋友那里要来了一份详细的教程，具体网址如下：<br><a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8" target="_blank" rel="noopener">https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8</a><br>搭建过程中还是遇到了不少坑，比如我在我的Win10系统安装了vim后，试图在命令行使用vim口令修改_config.yml文件。但当我deploy之后，我发现在我的博客页面上原本是中文的部分却出现了乱码。这怎么能忍？于是我倒腾半天，首先发现blog-themes-landscape-language里存在zh-CN.yml文件，而我在_config.yml文件中language一行填写的是zh，故改之 随后generate+deploy。然而，我发现乱码纹丝不动！<br>于是我用记事本戳进_config.yml文件，暗搓搓地将文件另存为一个txt文件，顺便把编码改成UTF-8；随后，我又将原来的_config.yml文件删了并通过重命名把新的_config.yml.txt文件的.txt后缀删了。随后，我打开命令行，通过vim指令再次打开_config.yml文件，发现原本的中文是一堆乱码。我装作无事发生，generate+deploy，终于在博客页面上看到熟悉的中文了！</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>第一次使用hexo框架搭建博客，由于本人专业知识四舍五入就是0，我从已经成功搭建博客的朋友那里要来了一份详细的教程，具体网址如下：<br><a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8" target="_blank" rel="noopener">https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-8</a></p><p>搭建过程中还是遇到了不少坑，比如我在我的Win10系统安装了vim后，试图在命令行使用vim口令修改_config.yml文件。但当我deploy之后，我发现在我的博客页面上原本是中文的部分却出现了乱码。这怎么能忍？<br>于是我倒腾半天，首先发现blog-themes-landscape-language里存在zh-CN.yml文件，而我在_config.yml文件中language一行填写的是zh，故改之 随后generate+deploy。然而，我发现乱码纹丝不动……？？？<br>于是我用记事本戳进_config.yml文件，暗搓搓地将文件另存为一个txt文件，顺便把编码改成UTF-8；随后，我又将原来的_config.yml文件删了并通过重命名把新的_config.yml.txt文件的.txt后缀删了。随后，我打开命令行，通过vim指令再次打开_config.yml文件，发现原本的中文是一堆乱码。我装作无事发生，generate+deploy，终于在博客页面上看到熟悉的中文了！</p><p>（解决过程中可能出现的不合理的操作请多包涵）</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>

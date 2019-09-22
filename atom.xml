@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://renaissance0412.github.io/"/>
-  <updated>2019-09-22T03:01:33.545Z</updated>
+  <updated>2019-09-22T03:25:34.244Z</updated>
   <id>https://renaissance0412.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://renaissance0412.github.io/2019/09/22/xin-yuan-xiao-yuan-chao-shi-de-suan-nai-ji-lu/"/>
     <id>https://renaissance0412.github.io/2019/09/22/xin-yuan-xiao-yuan-chao-shi-de-suan-nai-ji-lu/</id>
     <published>2019-09-22T03:01:33.000Z</published>
-    <updated>2019-09-22T03:01:33.545Z</updated>
+    <updated>2019-09-22T03:25:34.244Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,20 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;p&gt;出于对老酸奶的热爱，本人以前几乎只喝一种酸奶。昨日一时兴起决定对欣苑校园超市的所有冰柜里的酸奶进行每日一瓶的测评（其实是自己想喝）&lt;/p&gt;
+&lt;p&gt;2019.09.21&lt;br&gt;天润青柠酸奶&lt;br&gt;价格：5.50RMB&lt;br&gt;规格：180g&lt;br&gt;袋装酸奶，比较浓稠，我用吸管一
         
       
     
     </summary>
     
     
+      <category term="生活" scheme="https://renaissance0412.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="酸奶" scheme="https://renaissance0412.github.io/tags/%E9%85%B8%E5%A5%B6/"/>
+    
+      <category term="测评" scheme="https://renaissance0412.github.io/tags/%E6%B5%8B%E8%AF%84/"/>
     
   </entry>
   
@@ -48,7 +51,7 @@
     <link href="https://renaissance0412.github.io/2019/09/19/ji-yu-easyar-unity-de-ar-lao-po-shi-xian/"/>
     <id>https://renaissance0412.github.io/2019/09/19/ji-yu-easyar-unity-de-ar-lao-po-shi-xian/</id>
     <published>2019-09-19T15:20:47.000Z</published>
-    <updated>2019-09-19T15:20:47.891Z</updated>
+    <updated>2019-09-22T03:25:07.770Z</updated>
     
     <summary type="html">
     
@@ -56,17 +59,19 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;p&gt;由于本人一时兴起加入了两个工作室却又没有技术，而互联网+等比赛将近，三教的工位日益稀缺，两个工作室都急需项目。所以，为了实现我的基于Ar技术的idea，本菜鸡开始了没头没脑的摸索……（但其实加入了其他项目而且并没有为这个idea申请项目hhh）&lt;br&gt;首先，打开Unity官
         
       
     
     </summary>
     
     
+      <category term="编程" scheme="https://renaissance0412.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="EasyAr" scheme="https://renaissance0412.github.io/tags/EasyAr/"/>
+    
+      <category term="Unity" scheme="https://renaissance0412.github.io/tags/Unity/"/>
     
   </entry>
   
@@ -75,7 +80,7 @@
     <link href="https://renaissance0412.github.io/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/"/>
     <id>https://renaissance0412.github.io/2019/09/15/hexo-bo-ke-da-jian-shi-chu-xian-de-zhong-wen-luan-ma-wen-ti/</id>
     <published>2019-09-15T08:34:35.935Z</published>
-    <updated>2019-09-15T08:46:31.316Z</updated>
+    <updated>2019-09-22T03:25:11.067Z</updated>
     
     <summary type="html">
     
@@ -106,7 +111,7 @@
     <link href="https://renaissance0412.github.io/2019/09/15/ji-bo-lun-sha-yu-mo/"/>
     <id>https://renaissance0412.github.io/2019/09/15/ji-bo-lun-sha-yu-mo/</id>
     <published>2019-09-15T08:29:31.115Z</published>
-    <updated>2019-09-22T02:54:49.523Z</updated>
+    <updated>2019-09-22T03:25:13.975Z</updated>
     
     <summary type="html">
     
